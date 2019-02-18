@@ -1,0 +1,1 @@
+export const NASA_URL = 'https://images-api.nasa.gov/search?q='; 

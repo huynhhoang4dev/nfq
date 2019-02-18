@@ -1,0 +1,6 @@
+.container{
+  width: 90%;
+  margin: 0px auto;
+  min-height: 800px;
+  position: relative;
+}
